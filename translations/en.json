@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "Welcome to Hansom Cycles",
+    "description": "Find your perfect ride with us.",
+    "sometext": "Some text"
+  },
+  "products": {
+    "title": "Our Products",
+    "no_products": "No products available at the moment."
+  }
+}

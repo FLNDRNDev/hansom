@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "Welkom bij Hansom Cycles",
+    "description": "Vind jouw perfecte rit bij ons.",
+    "sometext": "Wat tekst hier"
+  },
+  "products": {
+    "title": "Onze Producten",
+    "no_products": "Op dit moment zijn er geen producten beschikbaar."
+  }
+}
